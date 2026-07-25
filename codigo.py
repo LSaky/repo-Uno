@@ -1,2 +1,2 @@
-print("Soy")
+print("Soy u tal")
 print("Dissel")
