@@ -1,2 +1,2 @@
-print("Soy u tal")
-print("Dissel")
+print("Soy un tal")
+print("Dissel el mejor")
